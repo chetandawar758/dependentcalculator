@@ -1,0 +1,16 @@
+{
+  "name": "dependentcalculator",
+  "version": "1.0.0",
+  "description": "howto use calcu",
+  "main": "calculator_use.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "add": "npm run ./calculator_use.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chetandawar758"
+  },
+  "author": "chetan dawar",
+  "license": "ISC"
+}
