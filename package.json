@@ -12,5 +12,8 @@
     "url": "chetandawar758"
   },
   "author": "chetan dawar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "kailakuletar": "^1.0.0"
+  }
 }
